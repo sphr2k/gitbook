@@ -1,0 +1,4 @@
+root: ./
+
+redirects:  
+  go/v19: use-cases/for-designes.md

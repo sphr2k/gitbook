@@ -1,4 +1,8 @@
 root: ./
 
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
 redirects:  
   go/v19: use-cases/for-designes.md
